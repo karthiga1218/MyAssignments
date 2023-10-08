@@ -56,8 +56,8 @@ public class createAccount
 		{
 			createAccount test=new createAccount();
 			test.LaunchBrowser();
-			test.accountDetails();
-			test.submit();
+			//test.accountDetails();
+			//test.submit();
 		
 		}
 	
